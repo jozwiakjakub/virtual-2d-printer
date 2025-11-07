@@ -1,3 +1,5 @@
+# [Live Demo](https://jozwiakjakub.github.io/virtual-2d-printer/)
+
 # Virtual 2D Printer
 
 A simple 2D printer simulation that “prints” the letters **AI** line by line using HTML, CSS, and JavaScript.  
